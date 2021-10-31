@@ -1,4 +1,6 @@
-# 7
+# Investing with ETFs
+
+![etf](images/eft.jpg)
 ---
 ## Tools
 

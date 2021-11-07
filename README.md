@@ -1,41 +1,20 @@
-# Investing with ETFs
+# Realtime Cryptocurrency Projection Application
 
-![etf](images/etf.jpg)
----
-## Tools
+## Project Description/Outline – CLI application that uses questionary to interact with the  user and there investing preferences.
 
-* SQLAlchemy - This is an open-source SQL library to help ease the communication between Python-based programs and databases.
-* Voilà - This will allow you to convert your Jupyter notebook into a live webpage.
+preferences.  Application will build portfolio based on users preferences.
 
----
-## Installations
+Research Questions to Answer – 
+What added value can we add?
+	Performance based on weights
+	How risky, how volatile is client willing to take on
+	Why could client invest in this
+Where are we getting data?
+	We can get historical crypto closing prices from crypto exchange API’s
 
-In terminal, with your conda `dev` environment active, run:
+Datasets to be used – 
 
-* Install SQLAlchemy
+.env file
 
-```python
-pip install SQLAlchemy
-```
-
-To confirm your installation,
-```python
-conda list sqlalchemy
-```
-It should appear with version number:
-![sqlalchemy confirmation](images/sqlalchemyconfirm.jpg)
-
-* Install Voilà
-
-In terminal, with your conda `dev`  environment active, run:
-
-```python
-conda install -c conda-forge voila
-```
-
-To confirm your installation,
-``` python
-conda list voila
-```
-It should appear with version number:
-![voila confirmation](images/voilaconfirm.jpg)
+## Contributors
+Noah Beito, Stephen Thomas, Christina San Diego

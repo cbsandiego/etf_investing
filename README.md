@@ -44,7 +44,7 @@ It should appear with version number:
 
 ---
 Using Voilà to deploy Web Application
-[![voila application]({https://www.dropbox.com/s/6agbwhwbznxe1g2/2021-11-07_14-48-00.pdf?dl=0})]({https://www.dropbox.com/s/a6ly4mw3bdd37g3/2021-11-07_14-53-58.mp4?dl=0} "Please the 'Play' button to see Voilà in action")
+![voila application](images/voilaapp.jpg)
 
 ---
 ## Contributors

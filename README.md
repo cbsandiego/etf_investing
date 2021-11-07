@@ -7,7 +7,7 @@ This is a financial database and web application using SQL, Python and Voilà to
 ## Tools
 
 * [SQLAlchemy](https://www.sqlalchemy.org/) - This is an open-source SQL library to help ease the communication between Python-based programs and databases.
-* Voilà - This will allow you to convert your Jupyter notebook into a live webpage.
+* [Voilà](https://voila.readthedocs.io/en/stable/) - This will allow you to convert your Jupyter notebook into a live webpage.
 
 ---
 ## Installations
